@@ -1,0 +1,19 @@
+#pred1 {
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 7px 29px 0px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 40px 40px 30px;
+    width: calc(25%  20px);
+  }
+  .col-lg-3 {
+    flex: 0 0 auto;
+    width:25%;
+  }
+.col-lg-3 {
+    flex: 0 0 calc(25% - 20px);
+    max-width: calc(25% - 20px);
+    margin: 10px;
+ } 
+ .mx-auto rounded-circle{
+    width: 10%;
+ }
